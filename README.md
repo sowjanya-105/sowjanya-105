@@ -5,7 +5,7 @@
 <p align="left"> - 💻 I’m an aspiring Data Scientist and a passionate Web Developer <br>
 - 🤝 Founder and Co-head of a fast-growing tech community, Devs' Street <br>
 - 👀 I’m looking to collaborate on Open Source Projects<br>
-- 💬 I'm felxible to perform various roles such as a team leader, data analyst, web developer, digital marketer, content writer, trainer, event host, content designer, community manager and a lot more. <br>
+- 💬 I'm flexible to work on various roles such as a team leader, data analyst, web developer, digital marketer, content developer and designer, community manager, trainer and a lot more. <br>
 - ⚡ Fun fact: One Selfie a day keeps all my inferiorities away! </p>
 
 <a href="https://github.com/sowjanya-105/github-readme-stats">

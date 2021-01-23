@@ -14,16 +14,16 @@
 <a href="https://github.com/sowjanya-105/github-readme-stats">
 <img align="left" src= "https://github-readme-stats.vercel.app/api?username=sowjanya-105&theme=midnight-purple&show_icons=true" />
 </a>
-
-<a href="https://github.com/sowjanya-105/github-readme-toplangs">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
-</a>
-</p>
-</br></br></br>
-   <a href="https://github.com/sowjanya-105/github-readme-streak-stats">
+  <a href="https://github.com/sowjanya-105/github-readme-streak-stats">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sowjanya-105" />
   </a>
+
+</p>
+</br></br></br>
  
+ <a href="https://github.com/sowjanya-105/github-readme-toplangs">
+  <img align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+</a>
  </br></br></br>
   #### 📫 How to reach me:   
   [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/R-Sowjanya#4431)

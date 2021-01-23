@@ -20,7 +20,7 @@
 <img align="right" src= "(https://github-readme-streak-stats.herokuapp.com/?user=sowjanya-1051&theme=dark)(https://github.com/DenverCoder1/github-readme-streak-stats)" />
   </a>
  <br/><br/><br/>
-  
+  [GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sowjanya-105&theme=dark) (https://github.com/DenverCoder1/github-readme-streak-stats)
 **Languages and Frameworks:**
 <div>
 <p align="left">

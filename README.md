@@ -22,7 +22,7 @@
 </br></br></br>
  
  <a href="https://github.com/sowjanya-105/github-readme-toplangs">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  <img align="left" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </a>
  </br></br></br>
   #### 📫 How to reach me:   

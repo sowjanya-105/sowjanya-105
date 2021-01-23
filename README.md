@@ -3,18 +3,18 @@
 
 <code><img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" alt="developer" align="left" width="500px" height="500px"  /></code>&nbsp;
 <p align="left"> - 💻 I’m an aspiring Data Scientist and a passionate Web Developer <br>
-- 🤝 Founder and Co-head of a fast-growing tech community, Devs' Street <br>
+- 🤝 Founder and Co-head of a fast-growing online tech community, Devs' Street <br>
 - 👀 I’m looking to collaborate on Open Source Projects<br>
-- 💬 I'm flexible to work on various roles such as a team leader, data analyst, web developer, digital marketer, content developer and designer, community manager, trainer and a lot more. <br>
+- 💬 I'm flexible to work on various roles such as a Data Analyst, Web Developer, Content Developer and Designer. <br>
 - ⚡ Fun fact: One Selfie a day keeps all my inferiorities away! </p>
 
 <a href="https://github.com/sowjanya-105/github-readme-stats">
-<img src= "https://github-readme-stats.vercel.app/api?username=sowjanya-105&theme=tokyonight&show_icons=true" />
+<img src= "https://github-readme-stats.vercel.app/api?username=sowjanya-105&theme=chartreuse-dark&show_icons=true" />
 </a>
-<br/><br/><br/>
-<p align="center">
+  
+<p align="right">
   <a href="https://github.com/sowjanya-105/github-readme-streak-stats">
-    <img src="(https://github-readme-streak-stats.herokuapp.com/?sowjanya-105)" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sowjanya-105&theme=dark" />
   </a>
 </p>
 

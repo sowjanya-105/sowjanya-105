@@ -13,12 +13,12 @@
 </a>
 <p align="right">
 <a href="https://github.com/sowjanya-105/github-readme-toplangs">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sowjanya-105&layout=compact" />
 </a>
   </p>
 <p align="right">
   <a href="https://github.com/sowjanya-105/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sowjanya-105" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sowjanya-105&theme=radical" />
   </a>
 </p>
 

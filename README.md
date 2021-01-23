@@ -16,7 +16,10 @@
 <img align="right" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=sowjanya-105&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
   </a>
   <br/><br/><br/>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sowjanya-1051&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+  <a href="https://github.com/sowjanya-105/github-readme-streak-stats">
+<img align="right" src= "(https://github-readme-streak-stats.herokuapp.com/?user=sowjanya-1051&theme=dark)(https://github.com/DenverCoder1/github-readme-streak-stats)" />
+  </a>
+ <br/><br/><br/>
   
 **Languages and Frameworks:**
 <div>

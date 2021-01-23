@@ -25,9 +25,4 @@
   <img align="left" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </a>
  </br></br></br>
-  #### 📫 How to reach me:   
-  [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/R-Sowjanya#4431)
-  [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/sowjanya_105)
-  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/sowjanya-r/)
-  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/_.sowww._/)
-  <a href="mailto:rsow105@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+  

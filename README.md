@@ -1,7 +1,7 @@
 ### Hello, I'm Sowjanya <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowjanya-105" alt="Sowjanya" /> </p>
 
-<code><img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" alt="developer" align="left" width="500px" height="500px"  /></code>&nbsp;
+<code><img src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" alt="developer" align="left" /></code>&nbsp;
 <p align="left"> - 💻 I’m an aspiring Data Scientist and a passionate Web Developer <br>
 - 🤝 Founder and Co-head of a fast-growing online tech community, Devs' Street <br>
 - 👀 I’m looking to collaborate on Open Source Projects<br>
@@ -11,17 +11,16 @@
 <a href="https://github.com/sowjanya-105/github-readme-stats">
 <img src= "https://github-readme-stats.vercel.app/api?username=sowjanya-105&theme=midnight-purple&show_icons=true" />
 </a>
-<p align="right">
-<a href="https://github.com/sowjanya-105/github-readme-toplangs">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
-</a>
-  </p>
-<p align="right">
-  <a href="https://github.com/sowjanya-105/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sowjanya-105" />
-  </a>
-</p>
 
+<p>
+<a href="https://github.com/sowjanya-105/github-readme-toplangs">
+  <img align="left" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+</a>
+   <a href="https://github.com/sowjanya-105/github-readme-streak-stats">
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sowjanya-105" />
+  </a>
+  </p>
+  
 ### Languages and Frameworks:
 <div>
 <p align="left">

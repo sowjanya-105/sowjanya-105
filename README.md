@@ -12,8 +12,11 @@
 <img src= "https://github-readme-stats.vercel.app/api?username=sowjanya-105&theme=tokyonight&show_icons=true" />
 </a>
 <br/><br/><br/>
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?sowjanya-105)
+<p align="center">
+  <a href="https://github.com/sowjanya-105/github-readme-streak-stats">
+    <img src="(https://github-readme-streak-stats.herokuapp.com/?sowjanya-105)" />
+  </a>
+</p>
 
 ### Languages and Frameworks:
 <div>

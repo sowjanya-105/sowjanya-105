@@ -12,7 +12,10 @@
 <img src= "https://github-readme-stats.vercel.app/api?username=sowjanya-105&theme=tokyonight&show_icons=true" />
 </a>
 <br/><br/><br/>
-**Languages and Frameworks:**
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?sowjanya-105)
+
+### Languages and Frameworks:
 <div>
 <p align="left">
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png" alt="python" width="20" height="20" /></code>&nbsp;

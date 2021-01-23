@@ -9,12 +9,16 @@
 - ⚡ Fun fact: One Selfie a day keeps all my inferiorities away! </p>
 
 <a href="https://github.com/sowjanya-105/github-readme-stats">
-<img src= "https://github-readme-stats.vercel.app/api?username=sowjanya-105&theme=chartreuse-dark&show_icons=true" />
+<img src= "https://github-readme-stats.vercel.app/api?username=sowjanya-105&theme=midnight-purple&show_icons=true" />
 </a>
-  
+<p align="right">
+<a href="https://github.com/sowjanya-105/github-readme-toplangs">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+</a>
+  </p>
 <p align="right">
   <a href="https://github.com/sowjanya-105/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sowjanya-105&theme=dark" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sowjanya-105" />
   </a>
 </p>
 

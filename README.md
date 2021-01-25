@@ -9,20 +9,21 @@
 - 👀 I’m looking to collaborate on Open Source Projects.<br>
 - 💬 I'm flexible to work on various roles such as a Data Analyst, Web Developer, Content Developer and Designer. <br>
 - ⚡ Fun fact: One Selfie a day keeps all my inferiorities away! </p>
-</br></br>
+<br><br>
 <p>
 <a href="https://github.com/sowjanya-105/github-readme-stats">
 <img align="left" src= "https://github-readme-stats.vercel.app/api?username=sowjanya-105&theme=midnight-purple&show_icons=true" />
-</a>
+</a> 
+ <br><br><br>
   <a href="https://github.com/sowjanya-105/github-readme-streak-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sowjanya-105" />
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sowjanya-105" />
   </a>
 
 </p>
-</br></br></br>
+<br><br><br>
  
  <a href="https://github.com/sowjanya-105/github-readme-toplangs">
   <img align="left" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </a>
- </br></br></br>
+ <br><br><br>
   

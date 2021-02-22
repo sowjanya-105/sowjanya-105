@@ -15,6 +15,7 @@
  </a>
  <br><br>
 
+<p>
   <a href="https://github.com/sowjanya-105/github-readme-streak-stats">
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sowjanya-105" />
   </a>
@@ -22,4 +23,4 @@
  <a href="https://github.com/sowjanya-105/github-readme-toplangs">
   <img align="left" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </a>
- 
+</p>

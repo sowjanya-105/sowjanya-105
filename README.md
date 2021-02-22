@@ -10,7 +10,10 @@
 - 💬 I'm flexible to work on various roles such as a Data Analyst, Web Developer, Content Developer and Designer. <br>
 - ⚡ Fun fact: One Selfie a day keeps all my inferiorities away! </p>
 <br><br>
-<p>
+ <a href="https://github.com/sowjanya-105/github-profile-trophy">
+  <img align="left" src="https://github-profile-trophy.vercel.app/?username=sowjanya-105&theme=onedark" />
+ </a>
+ <br><br><br>
 <a href="https://github.com/sowjanya-105/github-readme-stats">
 <img align="left" src= "https://github-readme-stats.vercel.app/api?username=sowjanya-105&theme=midnight-purple&show_icons=true" />
 </a> 
@@ -19,10 +22,6 @@
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sowjanya-105" />
   </a>
  <br><br><br>
-<a href="https://github-profile-trophy.vercel.app/?username=sowjanya-105&theme=onedark">
-</p>
-<br><br><br>
- 
  <a href="https://github.com/sowjanya-105/github-readme-toplangs">
   <img align="left" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </a>

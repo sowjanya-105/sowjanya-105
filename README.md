@@ -18,7 +18,8 @@
   <a href="https://github.com/sowjanya-105/github-readme-streak-stats">
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sowjanya-105" />
   </a>
-
+ <br><br><br>
+<a href="https://github-profile-trophy.vercel.app/?username=sowjanya-105&theme=onedark">
 </p>
 <br><br><br>
  

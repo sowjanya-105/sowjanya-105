@@ -13,14 +13,13 @@
  <a href="https://github.com/sowjanya-105/github-profile-trophy">
   <img align="left" src="https://github-profile-trophy.vercel.app/?username=sowjanya-105&theme=onedark" />
  </a>
- <br><br><br>
-<p>
+ <br><br>
+
   <a href="https://github.com/sowjanya-105/github-readme-streak-stats">
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sowjanya-105" />
   </a>
- <br><br><br>
+
  <a href="https://github.com/sowjanya-105/github-readme-toplangs">
   <img align="left" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </a>
- <br><br><br>
- </p> 
+ 

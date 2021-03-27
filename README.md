@@ -31,8 +31,7 @@
 
 <h3>📈 MY WEEKLY CODING SUM</h3> <br>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sowjanya-105)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Sowjanya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sowjanya-105&custom_title=My%20Weekly%20Stats&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align=center> Let's get connected now!</h2> <br>
 

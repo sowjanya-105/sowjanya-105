@@ -15,24 +15,11 @@
 	<li><img src="https://c.tenor.com/KKrn7yg0iXAAAAAj/joe-biden-biden.gif" height=35 width=35><span> I lead an Online Tech Community named Devs' Street with 500+ members.</span></li>
 	<li><span><img src="https://c.tenor.com/ik-NNXKi_0sAAAAj/took-selfies-selfie-hand.gif" height=35 width=35> Fun fact: <em>One pic a day, keeps all my stress away.</em></span></li>
 </strong></ul>
-
-
-<h2>⏳ RECENT ACTIVITY </h2>
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2563](https://github.com/webpack/webpack-cli/issues/2563) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-2. 💪 Opened PR [#2557](https://github.com/webpack/webpack-cli/pull/2557) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-3. 💪 Opened PR [#2550](https://github.com/webpack/webpack-cli/pull/2550) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-4. 🗣 Commented on [#2548](https://github.com/webpack/webpack-cli/issues/2548) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-5. 🎉 Merged PR [#2547](https://github.com/webpack/webpack-cli/pull/2547) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-
-
-<!--END_SECTION:activity-->
-
+<br>
 
 
 <h2>💻 TOP LANGUAGES</h2> <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sowjanya-105&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sowjanya-105&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h2>📊 GITHUB STATS</h2> <br>
@@ -44,7 +31,7 @@
 
 <h3>📈 MY WEEKLY CODING SUM</h3> <br>
 
-[![Sowjanya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sowjanya-105&custom_title=My%20Weekly%20Stats&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sowjanya-105)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h2 align=center> Let's get connected now!</h2> <br>

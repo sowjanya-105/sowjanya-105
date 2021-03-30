@@ -1,8 +1,9 @@
 ### Hello<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowjanya-105" alt="Sowjanya" /> </p>
 
-<code><img align="center" src="Hello!.mp4" alt="developer" /></code>&nbsp;
-
+<video width="320" height="240" controls>
+  <source src="Hello!.mp4" type="video/mp4">
+</video>
 
 <h2 align='center'>WHO AM I? 🤔</h2>
 <p align='center'><h3 align='center'>An aspiring Data Scientist and a passionate Web Developer.<br></h3>

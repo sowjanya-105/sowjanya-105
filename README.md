@@ -1,10 +1,7 @@
 ### Hello<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowjanya-105" alt="Sowjanya" /> </p>
 
-<video width="320" height="240" controls>
-  <source src="Hello!.mp4" type="video/mp4">
-</video>
-
+<img src="Hello!.gif" width="40" height="40" />
 <h2 align='center'>WHO AM I? 🤔</h2>
 <p align='center'><h3 align='center'>An aspiring Data Scientist and a passionate Web Developer.<br></h3>
 	 <ul><strong>

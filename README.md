@@ -15,11 +15,8 @@
 </strong></ul>
 <br>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=sowjanya-105&theme=rogue" alt="Activity Graph">
-<br>
 
-
-## My Skill Set  
+## 🦾My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -65,6 +62,9 @@
 
 <br/>  
 
+
+<img src="https://activity-graph.herokuapp.com/graph?username=sowjanya-105&theme=rogue" alt="Activity Graph">
+<br>
 
 <h2 align=center> Let's get connected now!</h2> <br>
 

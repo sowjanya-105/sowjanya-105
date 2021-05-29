@@ -1,11 +1,8 @@
-### Hello<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sowjanya-105" alt="Sowjanya" /> </p>
-
 <img src="intro.gif" />
 <h2 align='center'>WHO AM I? 🤔</h2>
 <p align='center'><h3 align='center'>An aspiring Data Scientist and a passionate Web Developer.<br></h3>
 	 <ul><strong>
-	<li><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=35 width=35> I have a deep expertise and hands on experience with Web Development using various tools like HTML, CSS, JavaScript, JQuery, Node.js and API's.</li>
+	<li><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=35 width=35> I have a deep expertise and hands on experience with Web Development using various tools like HTML, CSS, JavaScript, JQuery, Node.js,MongoDB and API's.</li>
 	<li><img src="https://media.tenor.com/images/e3b526d8c4a8fa8ce985a1475a2052c1/tenor.gif" height=35 width=35><span>I’m currently working as a part-time Web Developer at a start-up named Bridge.</span></li>
 	<li><img src="https://media.tenor.com/images/f38e928f2a6c074324a48bf161603271/tenor.gif" height=35 width=35> <span>At present I'm learning Data Structures and Algorithms.</span></li>
 	<li><img src="https://media.tenor.com/images/798da9f756994c9adc0444c214801e3e/tenor.gif" height=35 width=35><span> I’m looking forward to collaborate on Projects, Coding Challenges and Hackathons.</span></li>
@@ -74,4 +71,5 @@
 <a href = https://twitter.com/sowjanya-105 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='45' weight='45'/></a>
 <a href = https://instagram.com/sowjanya_105 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='45' weight='45'/></a>
 </a>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sowjanya-105" alt="Sowjanya" /> </p>
 

@@ -1,7 +1,7 @@
 ### Hello<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowjanya-105" alt="Sowjanya" /> </p>
 
-<img src="Hello!.gif" />
+<img src="intro.gif" />
 <h2 align='center'>WHO AM I? 🤔</h2>
 <p align='center'><h3 align='center'>An aspiring Data Scientist and a passionate Web Developer.<br></h3>
 	 <ul><strong>

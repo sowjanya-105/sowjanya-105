@@ -12,8 +12,8 @@
 </strong></ul>
 <br>
 
+<h2 align='center'>🦾My Skill Set  </h2>
 
-## 🦾My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 

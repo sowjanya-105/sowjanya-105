@@ -66,7 +66,7 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=sowjanya-105&theme=rogue" alt="Activity Graph">
 <br>
 
-<h2 align=center> Let's get connected now!</h2> <br>
+<h2 align=center> Let's get connected!</h2> <br>
 
 <p align = 'center'>
 <a href = https://github.com/sowjanya-105 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='45' weight='45'/></a>

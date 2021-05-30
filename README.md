@@ -1,18 +1,25 @@
 <img src="intro.gif" />
-<h2 align='center'>WHO AM I? 🤔</h2>
-<p align='center'><h3 align='center'>An aspiring Data Scientist and a passionate Web Developer.<br></h3>
+<br>
+<br>
+<p align='center'><h2 align='center'>👩‍💻A Little about Myself<br></h3>
 	 <ul><strong>
-	<li><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=35 width=35> I have a deep expertise and hands on experience with Web Development using various tools like HTML, CSS, JavaScript, JQuery, Node.js,MongoDB and API's.</li>
-	<li><img src="https://media.tenor.com/images/e3b526d8c4a8fa8ce985a1475a2052c1/tenor.gif" height=35 width=35><span>I’m currently working as a part-time Web Developer at a start-up named Bridge.</span></li>
-	<li><img src="https://media.tenor.com/images/f38e928f2a6c074324a48bf161603271/tenor.gif" height=35 width=35> <span>At present I'm learning Data Structures and Algorithms.</span></li>
+	<li><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=35 width=35> I have a deep expertise and hands on experience with Web Development using various tools like HTML, CSS, JavaScript, JQuery, Node.js, MongoDB and API's.</li>
+	<li><img src="https://media.tenor.com/images/e3b526d8c4a8fa8ce985a1475a2052c1/tenor.gif" height=35 width=35><span>I’m currently working as a Web Developer Intern at a start-up named Bridge.</span></li>
+	<li><img src="https://media.tenor.com/images/f38e928f2a6c074324a48bf161603271/tenor.gif" height=35 width=35> <span>At present I'm learning React meanwhile enhancing my competitive programming skills.</span></li>
 	<li><img src="https://media.tenor.com/images/798da9f756994c9adc0444c214801e3e/tenor.gif" height=35 width=35><span> I’m looking forward to collaborate on Projects, Coding Challenges and Hackathons.</span></li>
-	<li><img src="https://media.tenor.com/images/dcf6ddd99688a8d3228580881953fc09/tenor.gif" height=35 width=35><span> Reach me out for Event hosting, Mentoring and Project/Hackathon collaboration.</span></li>
 	<li><img src="https://c.tenor.com/KKrn7yg0iXAAAAAj/joe-biden-biden.gif" height=35 width=35><span> I lead an Online Tech Community named Devs' Street with 500+ members.</span></li>
+	<li><img src="https://media.tenor.com/images/dcf6ddd99688a8d3228580881953fc09/tenor.gif" height=35 width=35><span> Reach me out for Event hosting, Mentoring and Project/Hackathon collaboration.</span></li>
 	<li><span><img src="https://c.tenor.com/ik-NNXKi_0sAAAAj/took-selfies-selfie-hand.gif" height=35 width=35> Fun fact: <em>One pic a day, keeps all my stress away.</em></span></li>
 </strong></ul>
 <br>
-
-<h2 align='center'>🦾My Skill Set  </h2>
+<br>
+<div align="center">  
+<h2>🔥Streaks</h2>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sowjanya-105&theme=radical">
+</div>  
+<br>
+<br>
+<h2 align='center'>🦾My Skill Set </h2>
 
 <table><tr><td valign="top" width="33%">
 
@@ -58,12 +65,13 @@
 </td></tr></table>  
 
 <br/>  
-
-
+<br>
+<h2 align=center>📈My Activity Graph</h2> <br>
+<p>Tryna be more active, hehe😋
 <img src="https://activity-graph.herokuapp.com/graph?username=sowjanya-105&theme=rogue" alt="Activity Graph">
 <br>
-
-<h2 align=center> Let's get connected!</h2> <br>
+<br>
+<h2 align=center> 🤝Let's get connected!</h2> <br>
 
 <p align = 'center'>
 <a href = https://github.com/sowjanya-105 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='45' weight='45'/></a>

@@ -15,7 +15,7 @@
 <br>
 <div align="center">  
 <h2>🔥Streaks</h2>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sowjanya-105">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sowjanya-105&theme=radical">
 </div>  
 <br>
 <br>

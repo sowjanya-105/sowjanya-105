@@ -69,7 +69,7 @@
 
 <p align = 'center'>
 <a href = https://github.com/sowjanya-105 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='45' weight='45'/></a>
-<a href = https://linkedin.com/in/sowjanya-r target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='45' weight='45'/></a> 
+<a href = https://www.linkedin.com/in/sowjanya-r-/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='45' weight='45'/></a> 
 <a href = https://twitter.com/sowjanya-105 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='45' weight='45'/></a>
 <a href = https://instagram.com/sowjanya_105 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='45' weight='45'/></a>
 </a>
